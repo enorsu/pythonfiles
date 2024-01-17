@@ -3,6 +3,9 @@ import socketserver
 import os
 # imports
 
+#made with plain python 3.10, but probably newer versions will work too
+#does not work with python 2
+
 # Made by SotaNorsu
 
 # port if port.txt is not found
